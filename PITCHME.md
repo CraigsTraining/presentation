@@ -1,7 +1,7 @@
 +++
 @title[Introduction to Declarative Pipeline]
 
-Hello, World!
+![Title Image](images/title-page-graphic.png)
 
 +++
 
