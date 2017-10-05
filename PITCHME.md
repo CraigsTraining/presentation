@@ -1,7 +1,7 @@
 +++
 @title[Introduction to Declarative Pipeline]
 
-![Title Image](images/title-page-graphic.png)
+?image=images/title-page-graphic.png
 
 +++
 
