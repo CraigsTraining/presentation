@@ -1,5 +1,6 @@
-+++
-@title[Introduction to Declarative Pipeline]
+<!---
+  Title screen - full screen image
+-->
 
 ---?image=images/title-page-graphic.png
 
