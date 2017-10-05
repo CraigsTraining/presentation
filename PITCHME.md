@@ -1,6 +1,5 @@
----
+---?image=images/title-page-graphic.png
 @title[Introduction to Declarative Pipeline]
-?image=images/title-page-graphic.png
 
 ---
 
